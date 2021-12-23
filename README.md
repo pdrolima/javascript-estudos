@@ -7,4 +7,5 @@ I'm using this content to review JS and TS, and teach a friend and bring him to 
 **ECMAScript (ES)** is the standard which JavaScript.
 
 **TODO:**
-[] ES6
+
+[ ] ES6
