@@ -32,5 +32,5 @@ ES6 (Arrays)
  - [ ] Array.prototype.flat()
  - [x] Array.prototype.reduce()
 
---
+----
 - [ ] Prototypal Inheritance
