@@ -14,7 +14,7 @@ console.log(`findIndex() returns ${findIndex}`);
 const indexOf = people.indexOf({ name: "John" });
 console.log(`indexOf() returns ${indexOf}`);
 
-// indexOf can be used on a string of an array of strings/numbers.
+// indexOf can be used on a string or an array of strings/numbers.
 const indexOfString = "Hello World".indexOf("World");
 const indexOfStrings = ["John", "Jane"].indexOf("John");
 const indexOfNumbers = [1, 2, 3, 4, 5].indexOf(5);
